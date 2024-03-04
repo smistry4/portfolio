@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a9673ded.css",
+    "main.js": "/portfolio/static/js/main.ff4e8884.js",
+    "static/media/image_ow.jpg": "/portfolio/static/media/image_ow.a7a2d1176c08d68a94a8.jpg",
+    "static/media/Utk_logo.jpg": "/portfolio/static/media/Utk_logo.042207fe312ce77656f9.jpg",
+    "static/media/ProfPic.jpg": "/portfolio/static/media/ProfPic.94327c643b28ff0b2d2a.jpg",
+    "static/media/image_yelp.jpg": "/portfolio/static/media/image_yelp.350be329a2d6c52ad6a8.jpg",
+    "static/media/IMG_2980.JPG": "/portfolio/static/media/IMG_2980.ee0febdc0c3b8e6df795.JPG",
+    "static/media/logo_repme.jpg": "/portfolio/static/media/logo_repme.495dcfb9445304d6e6dd.jpg",
+    "static/media/image_col.jpg": "/portfolio/static/media/image_col.ef98e1f029a9a30c6541.jpg",
+    "static/media/image_hmda.jpg": "/portfolio/static/media/image_hmda.3c39ea835f66dc4f5fb1.jpg",
+    "static/media/FontsFree-Net-Dream-Avenue.ttf": "/portfolio/static/media/FontsFree-Net-Dream-Avenue.c5cd3fc9b0ec474ff098.ttf",
+    "static/media/sym.PNG": "/portfolio/static/media/sym.cc0e276a9a0bdf43bf7f.PNG",
+    "static/media/image_eatai.jpg": "/portfolio/static/media/image_eatai.08714f7c68d774a20ddc.jpg",
+    "static/media/image_spvs.jpg": "/portfolio/static/media/image_spvs.593abdbd97c443ac412b.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.a9673ded.css.map": "/portfolio/static/css/main.a9673ded.css.map",
+    "main.ff4e8884.js.map": "/portfolio/static/js/main.ff4e8884.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9673ded.css",
+    "static/js/main.ff4e8884.js"
+  ]
+}
