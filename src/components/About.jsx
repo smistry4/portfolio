@@ -41,7 +41,7 @@ const About = () => {
               </span>
           </Link>
           <button className="button cursor-pointer ">
-            <a className="button duration-500 flex items-center px-6 py-3 rounded-md outline outline-1 outline-amber-600 hover:outline-none hover:bg-amber-600" href={"/Resume_Version_2_13_24.pdf"} download={true}>
+            <a className="button duration-500 flex items-center px-6 py-3 rounded-md outline outline-1 outline-amber-600 hover:outline-none hover:bg-amber-600" href={"/Resume_Shivam_Mistry.pdf"} download={true}>
               Resume
             </a>
           </button>
